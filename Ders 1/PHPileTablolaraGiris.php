@@ -2,8 +2,8 @@
 	Satır: <input type="text" name="satir">
 	Sütun: <input type="text" name="sutun">
 	       <input type="submit" value="Giriş">
-
 </form>
+
 <?php 
 
 $satir=$_GET['satir'];
