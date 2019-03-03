@@ -1,7 +1,7 @@
 <form action="tablogiris.php" method="get">
 	Satır: <input type="text" name="satir">
 	Sütun: <input type="text" name="sutun">
-		   <input type="submit" value="Giriş">
+	       <input type="submit" value="Giriş">
 
 </form>
 <?php 
